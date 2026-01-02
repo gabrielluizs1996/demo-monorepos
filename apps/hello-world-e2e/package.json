@@ -1,0 +1,10 @@
+{
+  "name": "@demo-monorepos/hello-world-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@demo-monorepos/hello-world"
+    ]
+  }
+}

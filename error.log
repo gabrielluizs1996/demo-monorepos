@@ -1,0 +1,11 @@
+
+ NX   Failed to process project graph.
+
+An error occurred while processing files for the @nx/vitest plugin (Defined at nx.json#plugins[4])
+.
+  - apps/hello-world/vite.config.mts: crypto.hash is not a function
+An error occurred while processing files for the @nx/vite/plugin plugin (Defined at nx.json#plugins[3])
+.
+  - apps/hello-world/vite.config.mts: crypto.hash is not a function
+
+
